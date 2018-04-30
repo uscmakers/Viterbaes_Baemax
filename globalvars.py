@@ -1,0 +1,61 @@
+#define the variable
+majorlocations = {
+	"abdomen", 
+	"pelvis", 
+	"buttocks", 
+	"arms", 
+	"shoulder", 
+	"chest", 
+	"back", 
+	"head", 
+	"throat", 
+	"neck", 
+	"legs"
+}
+
+specificlocs = {
+	"abdomen", 
+	"buttocks", 
+	"rectum", 
+	"genitals", 
+	"groin", 
+	"hips", 
+	"hip joint", 
+	"pelvis", 
+	"arms general", 
+	"finger", 
+	"forearm", 
+	"wrist", 
+	"hand", 
+	"upper arm", 
+	"shoulder", 
+	"back", 
+	"chest", 
+	"lateral chest", 
+	"lower back", 
+	"spine", 
+	"face", 
+	"eyes", 
+	"forehead", 
+	"head", 
+	"hair", 
+	"scalp", 
+	"mouth", 
+	"jaw", 
+	"nose", 
+	"ears", 
+	"throat", 
+	"neck", 
+	"foot", 
+	"legs", 
+	"lower leg", 
+	"ankle", 
+	"thigh", 
+	"knee", 
+	"toes", 
+	"skin", 
+	"joints"
+}
+
+subloc = ""
+mysymptoms = []

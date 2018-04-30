@@ -1,0 +1,21 @@
+welcome: I am Baymax, your personal healthcare companion. How can I help you?
+
+sleep: You slept {{ time }} hours last night. I recommend getting eight hours of sleep tonight!
+
+badmsg: You walked {{ steps }} steps today. I recommend walking more.
+
+goodmsg: You walked {{ steps }} steps today. Good job!
+
+hr: Your average heart rate today was {{ hr }} beats per minute.
+
+feelingbad: I'm sorry, that sucks. Where are you experiencing pain?
+
+symptomcheck: Please tell me which of these symptoms you are experiencing. {{ sympString }}
+
+more: Anything else?
+
+symptomPrompt: What is it?
+
+diagnoseMe: There is a {{ percent }} percent chance that you have a {{ diag }}.
+
+poo: Baymax is awesome.
